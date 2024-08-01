@@ -7,7 +7,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Wdel0977/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Wdel0977/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Wdel0977/ticket-lifecycle)
-  - [osTickets: Azure Network Traffic Observation Lab](https://github.com/MrWillDelgado/Azure-Network-Traffic-Observation-Lab💻🛜💻
+  - [osTickets: Azure Network Traffic Observation Lab](https://github.com/MrWillDelgado/Azure-Network-Traffic-Observation-Lab 💻🛜💻
 
 <h2>🫱🏽‍🫲🏽Connect with me:</h2>
 
