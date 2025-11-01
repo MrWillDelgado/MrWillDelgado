@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mr. William (Will) Delgado, an <a href="https://linkedin.com/in/mrwilldelgado/">Business Analyst</a>☺</h1>
+<h1>Hi, I'm Mr. William (Will) Delgado, your next <a href="https://linkedin.com/in/mrwilldelgado/">Business Analyst</a>☺</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
